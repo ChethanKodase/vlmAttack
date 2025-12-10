@@ -79,3 +79,8 @@ Make directories:
 
 
 `mkdir outputsStorage/convergence`
+
+
+Run : 
+
+`python vlm_attack.py`
